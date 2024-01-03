@@ -6,7 +6,7 @@
     "usb": {
         "device_version": "1.0.0",
         "pid": "0xDADA",
-        "vid": "0xFEED"
+        "vid": "0x0101"
     },
     "encoder": {
         "rotary": [
