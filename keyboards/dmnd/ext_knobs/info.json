@@ -5,8 +5,8 @@
     "maintainer": "Dmytro Popov",
     "usb": {
         "device_version": "1.0.0",
-        "pid": "0xDADA",
-        "vid": "0x0101"
+        "pid": "0x0101",
+        "vid": "0xDADA"
     },
     "encoder": {
         "rotary": [
