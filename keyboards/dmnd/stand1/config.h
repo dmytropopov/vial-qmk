@@ -1,0 +1,17 @@
+#pragma once
+
+//#define NO_DEBUG
+//#define NO_PRINT 
+
+/* Double tap reset button to enter bootloader */
+#define RP2040_BOOTLOADER_DOUBLE_TAP_RESET
+#define RP2040_BOOTLOADER_DOUBLE_TAP_RESET_LED GP17
+#define RP2040_BOOTLOADER_DOUBLE_TAP_RESET_TIMEOUT 500U
+
+//#define RGB_MATRIX_LED_COUNT 10
+
+#define BOOTMAGIC_LITE_ROW 0
+#define BOOTMAGIC_LITE_COLUMN 0
+
+//#define RGB_MATRIX_LED_COUNT 8
+//#define RGB_DISABLE_WHEN_USB_SUSPENDED
